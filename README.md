@@ -1,12 +1,27 @@
 <div align="center">
 
-# 👩‍💻 Busra Zumrut Cevik
+# Busra Zumrut Cevik
 ### Data Science & AI Portfolio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-busra--cevik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/busra-cevik)
-[![GitHub](https://img.shields.io/badge/GitHub-BusraCevik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BusraCevik)
-[![LeetCode](https://img.shields.io/badge/LeetCode-B_SRA-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/B_SRA/)
-[![Email](https://img.shields.io/badge/Email-busrazcvik@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:busrazcvik@outlook.com)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/busra-cevik/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/busracevik">
+  <img src="https://img.shields.io/badge/GitHub-B0C4DE?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/B_SRA/">
+  <img src="https://img.shields.io/badge/LeetCode-C1E1C1?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:busrazcvik@outlook.com">
+  <img src="https://img.shields.io/badge/Email-FFDAB9?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+</p>
 
 ---
 
