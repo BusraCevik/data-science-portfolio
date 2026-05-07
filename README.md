@@ -1,35 +1,16 @@
 <div align="center">
 
-# Busra Zumrut Cevik
-### Data Science & AI Portfolio
+# 🚀 Data Science & AI Portfolio
+### Busra Zumrut Cevik
+**Software Engineer • M.Sc. Student in Artificial Intelligence & Data Science**
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/busra-cevik/">
-  <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/busracevik">
-  <img src="https://img.shields.io/badge/GitHub-B0C4DE?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/B_SRA/">
-  <img src="https://img.shields.io/badge/LeetCode-C1E1C1?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="mailto:busrazcvik@outlook.com">
-  <img src="https://img.shields.io/badge/Email-FFDAB9?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-*B.Sc. Software Engineering · M.Sc. Artificial Intelligence & Data Science (in progress)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busra-cevik/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busracevik)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/B_SRA/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:busrazcvik@outlook.com)
 
 </div>
 
----
 
 ## About Me
 
@@ -413,7 +394,7 @@ From Fundamentals to AI and Data Science
 | Language | Level |
 |---|---|
 | Turkish | Native |
-| English | Proficient (IELTS) |
+| English | C1 (IELTS) |
 | Polish | Beginner (A1) |
 | Spanish | Basic (A2) |
 
